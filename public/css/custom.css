@@ -1,0 +1,34 @@
+/***************************
+Add your custom styles below
+****************************/
+
+.nav-bar .nav-module {
+  height: 130px;
+}
+
+.program .card__body .card__title {
+  margin-bottom:0em;
+}
+
+.program .card__body .card__middle {
+  height: 10em;
+}
+
+.program .card__body .card__middle dt,
+.program .card__body .card__middle dd {
+  width:50%;
+  display:inline-block;
+}
+
+.program .card__body .card__lower {
+  height:21em;  
+}
+
+.program .card__body .card__lower dd {
+  margin-bottom:0.5em;
+}
+
+footer {
+  padding-top: 4.5em;
+  padding-bottom: 2.125em;
+}
