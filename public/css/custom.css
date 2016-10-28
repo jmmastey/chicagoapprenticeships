@@ -21,11 +21,19 @@ Add your custom styles below
 }
 
 .program .card__body .card__lower {
-  height:21em;  
+  height:22em;
 }
 
 .program .card__body .card__lower dd {
   margin-bottom:0.5em;
+}
+
+.sidebar .sidebar__widget h6 {
+  margin-bottom: 0px;
+}
+
+.sidebar .sidebar__widget hr {
+  margin-top: 0.5em;
 }
 
 footer {

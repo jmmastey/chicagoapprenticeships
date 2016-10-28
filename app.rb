@@ -17,6 +17,6 @@ helpers do
     program["benefit_tag"] = "with benefits" if program["benefits"] == "Yes"
     program["mentor_tag"] = "mentor program" if program["mentor_buddy"] == "Yes"
 
-    program.values.join(" ").downcase.gsub(/[^a-zA-Z0-9 ]/, '')
+    program.values.join(" ").downcase.gsub(/[^a-zA-Z0-9 ]+/, ' ')
   end
 end
