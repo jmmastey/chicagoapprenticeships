@@ -6,6 +6,10 @@ Add your custom styles below
   height: 130px;
 }
 
+.program .card__image {
+  border-bottom:1px solid #ddd;
+}
+
 .program .card__body .card__title {
   margin-bottom:0em;
 }
