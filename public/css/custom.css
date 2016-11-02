@@ -44,7 +44,7 @@ Add your custom styles below
   text-decoration: none;
 }
 
-footer {
+section, footer {
   padding-top: 4.5em;
-  padding-bottom: 2.125em;
+  padding-bottom: 5.125em;
 }
