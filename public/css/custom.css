@@ -36,6 +36,10 @@ Add your custom styles below
   margin-top: 0.5em;
 }
 
+.form-updates p a.btn {
+  text-decoration: none;
+}
+
 footer {
   padding-top: 4.5em;
   padding-bottom: 2.125em;
