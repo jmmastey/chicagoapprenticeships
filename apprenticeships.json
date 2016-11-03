@@ -1,5 +1,5 @@
 [
- { "name"          : "LaunchPad Lab",
+ { "name"           : "LaunchPad Lab",
     "industry"      : "Consulting",
     "url"           : "https://launchpadlab.com/careers",
     "image_url"     : "img/programs/launchpad.jpg",
@@ -16,6 +16,25 @@
     "tags"          : "",
     "active"        : true
   },
+
+ { "name"           : "DevMynd",
+    "industry"      : "Consulting",
+    "url"           : "https://www.devmynd.com/about/guidebooks/apprenticeship/",
+    "image_url"     : "img/programs/devmynd.jpg",
+    "cohort_size"   : "2 Apprentices",
+    "duration"      : "3-9 Months",
+    "employment"    : "Full-Time, Salaried",
+    "benefits"      : "Yes",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "10-49 Employees",
+    "stack"         : "Rails, JS, Elixir, iOS, Android, C#",
+    "curriculum"    : "90% pair-programmed client work, 10% personal learning activities.",
+    "requirements"  : "Past professional experience helpful.",
+    "application"   : "Announced on Twitter and left open for two weeks. Last round started with 111 applications and hired 2.",
+    "tags"          : "",
+    "active"        : true
+  },
+
   { "name"          : "Clique Studios",
     "industry"      : "Consulting",
     "url"           : "https://cliquestudios.com/clique-university/apprenticeships/",
@@ -33,6 +52,7 @@
     "tags"          : "",
     "active"        : true
   },
+
   { "name"          : "Trunk Club",
     "industry"      : "Consumer Fashion / Assisted Commerce",
     "url"           : "https://www.trunkclub.com/engineering",
@@ -50,6 +70,7 @@
     "tags"          : "",
     "active"        : true
   },
+
   { "name"          : "Enova International",
     "industry"      : "Fintech",
     "url"           : "http://enova.com",
