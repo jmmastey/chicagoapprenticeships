@@ -1,5 +1,5 @@
 [
- { "name"           : "LaunchPad Lab",
+  { "name"           : "LaunchPad Lab",
     "industry"      : "Consulting",
     "url"           : "https://launchpadlab.com/careers",
     "image_url"     : "img/programs/launchpad.jpg",
@@ -17,7 +17,25 @@
     "active"        : true
   },
 
- { "name"           : "DevMynd",
+  { "name"           : "dough, Inc",
+    "industry"      : "Fintech",
+    "url"           : "",
+    "image_url"     : "img/programs/dough.jpg",
+    "cohort_size"   : "N/A (Rolling)",
+    "duration"      : "2-3 Months",
+    "employment"    : "Full-Time, Salaried",
+    "benefits"      : "Yes",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "100-499 Employees",
+    "stack"         : "Rails, Ember, Objective C, Java",
+    "curriculum"    : "Practice exercises w/ a senior, working towards production work.",
+    "requirements"  : "Bootcamp graduate or equivalent skills.",
+    "application"   : "Rolling, check website.",
+    "tags"          : "",
+    "active"        : true
+  },
+
+  { "name"           : "DevMynd",
     "industry"      : "Consulting",
     "url"           : "https://www.devmynd.com/about/guidebooks/apprenticeship/",
     "image_url"     : "img/programs/devmynd.jpg",

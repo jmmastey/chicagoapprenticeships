@@ -22,6 +22,7 @@ Add your custom styles below
 .program .card__body .card__middle dd {
   width:50%;
   display:inline-block;
+  vertical-align:top;
 }
 
 .program .card__body .card__lower {
