@@ -17,6 +17,24 @@
     "active"        : true
   },
 
+  { "name"          : "Table XI",
+    "industry"      : "Consulting",
+    "url"           : "http://www.tablexi.com/careers/",
+    "image_url"     : "img/programs/table_xi.jpg",
+    "cohort_size"   : "2",
+    "duration"      : "6 months",
+    "employment"    : "Full-Time, Salaried",
+    "benefits"      : "Yes",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "10-49 Employees",
+    "stack"         : "Rails, Swift, JS",
+    "curriculum"    : "Exercises, internal projects, client work, leaning toward the latter by the end.",
+    "requirements"  : "Little to no industry experience required.",
+    "application"   : "Check the career page and on Twitter",
+    "tags"          : "",
+    "active"        : true
+  },
+
   { "name"          : "dough, Inc",
     "industry"      : "Fintech",
     "url"           : "",
