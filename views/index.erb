@@ -14,31 +14,19 @@
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-md-9">
-        <div class="masonry masonry-blog">
-          <div class="masonry__container masonry--animate masonry--active">
-            <% programs.each do |program| %>
-              <%= erb :"index/program", locals: { program: program } %>
-            <% end %>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 hidden-sm hidden-xs">
+      <div class="col-md-12 hidden-sm hidden-xs">
         <div class="sidebar">
           <div class="sidebar__widget">
-              <h6>Filter Apprenticeships</h6>
-              <hr>
-              <form method="post">
-                  <div class="input-with-icon">
-                      <i class="icon-Magnifi-Glass2"></i>
-                      <input type="search" id="program-filter" placeholder="search apprentice programs" />
-                  </div>
-              </form>
-          </div>
-
-          <div class="sidebar__widget">
-            <h6>Tags</h6>
+            <h6>Filter Apprenticeships</h6>
             <hr>
+
+            <form method="post">
+              <div class="input-with-icon">
+                <i class="icon-Magnifi-Glass2"></i>
+                <input type="search" id="program-filter" placeholder="search apprentice programs" />
+              </div>
+            </form>
+
             <ul class="tag-cloud">
               <li><a href="#" class="btn btn--sm btn--square"><span class="btn__text">Product Companies</span></a></li>
               <li><a href="#" class="btn btn--sm btn--square"><span class="btn__text">Consulting</span></a></li>
@@ -49,6 +37,20 @@
               <li><a href="#" class="btn btn--sm btn--square"><span class="btn__text">Wordpress</span></a></li>
               <li><a href="#" class="btn btn--sm btn--square"><span class="btn__text">Experience Not Required</span></a></li>
             </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="masonry masonry-blog">
+          <div class="masonry__container masonry--active">
+            <% programs.each do |program| %>
+              <%= erb :"index/program", locals: { program: program } %>
+            <% end %>
           </div>
         </div>
       </div>

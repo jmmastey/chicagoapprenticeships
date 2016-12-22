@@ -31,7 +31,7 @@
     "curriculum"    : "Dedicated onboarding, then production work w/ an experienced team.",
     "requirements"  : "Experience not required, usually bootcamp grads.",
     "application"   : "Ongoing, can apply to any program",
-    "tags"          : "",
+    "tags"          : "product companies",
     "active"        : true
   },
 
@@ -63,11 +63,11 @@
     "benefits"      : "No",
     "mentor_buddy"  : "No",
     "company_size"  : "100-499 Employees",
-    "stack"         : "Java, node, Python, React, Cassandra, Kafka, Mongo",
+    "stack"         : "Java, node, Python, React, Cassandra",
     "curriculum"    : "Join an existing team for production work from day one. Growth comes from mentorship on that team.",
-    "requirements"  : "Bootcamp or relevant degree strongly preferred.",
+    "requirements"  : "Bootcamp or relevant degree preferred.",
     "application"   : "Generally every few months. Email a resume to aappelbaum@signal.co.",
-    "tags"          : "",
+    "tags"          : "product companies",
     "active"        : true
   },
 
@@ -85,7 +85,7 @@
     "curriculum"    : "Practice exercises w/ a senior, working towards production work.",
     "requirements"  : "Bootcamp graduate or equivalent skills.",
     "application"   : "Rolling, check BuiltInChicago.",
-    "tags"          : "",
+    "tags"          : "product companies",
     "active"        : true
   },
 
@@ -118,8 +118,8 @@
     "mentor_buddy"  : "Yes",
     "company_size"  : "10-49 Employees",
     "stack"         : "CSS, PHP, Wordpress, JS",
-    "curriculum"    : "Dedicated onboarding with separate front-end and back-end mentors, working toward client projects in phase 3.",
-    "requirements"  : "Some development skill or bootcamp. Professional coding experience not required.",
+    "curriculum"    : "Dedicated onboarding with separate FE and BE mentors, working toward client projects in phase 3.",
+    "requirements"  : "Some development skill. Professional coding experience not required.",
     "application"   : "Rolling, check the website",
     "tags"          : "",
     "active"        : true
@@ -139,11 +139,11 @@
     "curriculum"    : "Learning projects leading to a capstone building an internal tool.",
     "requirements"  : "Comfort with at least one programming language and a familiarity with basic computer science principles.",
     "application"   : "Rolling",
-    "tags"          : "",
+    "tags"          : "product companies",
     "active"        : true
   },
 
-  { "name"          : "8th Light Student Program",
+  { "name"          : "8th Light (Student)",
     "industry"      : "Consulting",
     "url"           : "https://8thlight.com/apprenticeship/",
     "image_url"     : "img/programs/8th_light.jpg",
@@ -161,7 +161,7 @@
     "active"        : true
   },
 
-  { "name"          : "8th Light Resident Program",
+  { "name"          : "8th Light (Resident)",
     "industry"      : "Consulting",
     "url"           : "https://8thlight.com/apprenticeship/",
     "image_url"     : "img/programs/8th_light.jpg",

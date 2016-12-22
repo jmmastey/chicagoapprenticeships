@@ -7016,6 +7016,9 @@ section:first-of-type.imagebg + .masonry-contained {
 .sidebar .sidebar__widget:not(:last-child) {
   margin-bottom: 3.25em;
 }
+.tag-cloud {
+  padding-top: 1em;
+}
 .tag-cloud li {
   display: inline-block;
 }
