@@ -17,6 +17,24 @@
     "active"        : true
   },
 
+  { "name"          : "Narrative Science",
+    "industry"      : "Natural Language Generation",
+    "url"           : "https://www.narrativescience.com/",
+    "image_url"     : "img/programs/narrative_science.jpg",
+    "cohort_size"   : "N/A (Rolling)",
+    "duration"      : "4 Months",
+    "employment"    : "Full Time, Salaried",
+    "benefits"      : "?",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "100-499 Employees",
+    "stack"         : "Python, Node",
+    "curriculum"    : "Dedicated onboarding, then production work w/ an experienced team.",
+    "requirements"  : "Experience not required, usually bootcamp grads.",
+    "application"   : "Ongoing, can apply to any program",
+    "tags"          : "",
+    "active"        : true
+  },
+
   { "name"          : "Table XI",
     "industry"      : "Consulting",
     "url"           : "http://www.tablexi.com/careers/",
