@@ -8,13 +8,14 @@ Add your custom styles below
 
 .program .card__image {
   border-bottom:1px solid #ddd;
+  height: 175px;
 }
 
 .program .card__body .card__title {
   margin-bottom:0em;
 }
 
-.program .card__body .card__middle {
+.program .card__body .card__middle dl {
   height: 10em;
 }
 
@@ -23,6 +24,7 @@ Add your custom styles below
   width:50%;
   display:inline-block;
   vertical-align:top;
+  white-space: nowrap;
 }
 
 .program .card__body .card__lower {
