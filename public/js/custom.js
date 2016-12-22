@@ -1,17 +1,11 @@
 $('document', function(){
   $("input#program-filter").on('input', function() {
     var search_term = $(this).val().toLowerCase();
-    var programs = $(".masonry__item.program");
 
-    programs.each(function(){
+    $('.masonry__container').isotope({ itemSelector: '.masonry__item.program', layoutMode: 'fitRows', filter: function() {
       var tags = $(this).data('tags');
-      if(tags.match(search_term)) {
-        $(this).show();
-      } else {
-        $(this).hide();
-      }
-    });
-    $('.masonry__container').isotope();
+      return tags.match(search_term);
+    }});
   });
 
   $(".tag-cloud a").on('click', function(e) {
