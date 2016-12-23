@@ -2,6 +2,34 @@
 Add your custom styles below
 ****************************/
 
+body {
+  background: transparent url("/img/chicago-skyline.jpg") 0px 100px no-repeat;
+}
+
+#city-section .row {
+  height:90px;
+  padding-left:60%;
+  position:relative;
+  top: -35px;
+}
+
+@media (max-width: 991px) {
+  body {
+    background-image: none;
+  }
+
+  #city-section {
+    padding-bottom:0px;
+  }
+
+  #city-section .row {
+    height:auto;
+    padding: 0px 15px;
+    top: 0px;
+    text-align: center;
+  }
+}
+
 .nav-bar .nav-module {
   height: 130px;
 }
