@@ -41,6 +41,7 @@ body {
 
 .program .card__body .card__title {
   margin-bottom:0em;
+  min-height: 4.875em;
 }
 
 .program .card__body .card__middle dl {
@@ -49,14 +50,12 @@ body {
 
 .program .card__body .card__middle dt,
 .program .card__body .card__middle dd {
-  width:50%;
-  display:inline-block;
   vertical-align:top;
   white-space: nowrap;
 }
 
 .program .card__body .card__lower {
-  height:22em;
+  min-height:22em;
 }
 
 .program .card__body .card__lower dd {
