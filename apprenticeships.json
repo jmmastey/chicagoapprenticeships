@@ -125,6 +125,24 @@
     "active"        : true
   },
 
+  { "name"          : "Hashrocket",
+    "industry"      : "Consulting",
+    "url"           : "https://hashrocket.com/contact-us/jobs/apprentice",
+    "image_url"     : "img/programs/hashrocket.jpg",
+    "cohort_size"   : "1-2",
+    "duration"      : "6 months",
+    "employment"    : "Full-Time",
+    "benefits"      : "Yes",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "10-49 Employees",
+    "stack"         : "Rails, React, Ember, Elixir, iOS, Android",
+    "curriculum"    : "Varies based on the experience and interests of the apprentice. Combination of training, internal projects, and client work.",
+    "requirements"  : "Some professional programming experience; basic knowledge of Ruby and Rails.",
+    "application"   : "Rolling",
+    "tags"          : "",
+    "active"        : true
+  },
+
   { "name"          : "Trunk Club",
     "industry"      : "Consumer Fashion / Assisted Commerce",
     "url"           : "https://www.trunkclub.com/engineering",
