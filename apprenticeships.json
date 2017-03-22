@@ -1,4 +1,22 @@
 [
+  { "name"          : "Sway Brand",
+    "industry"      : "Marketing",
+    "url"           : "http://www.swaybrand.com/jobs",
+    "image_url"     : "img/programs/sway_brand.jpg",
+    "cohort_size"   : "2 Apprentices",
+    "duration"      : "4 Months",
+    "employment"    : "Contractor, Stipend",
+    "benefits"      : "On hire",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "10-49 Employees",
+    "stack"         : "Rails, React, React Native",
+    "curriculum"    : "Full stack project work with mentor guidance.",
+    "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
+    "application"   : "March",
+    "tags"          : "product companies b2b",
+    "active"        : true
+  },
+
   { "name"          : "Hashrocket",
     "industry"      : "Consulting",
     "url"           : "https://hashrocket.com/contact-us/jobs/apprentice",
@@ -13,7 +31,7 @@
     "curriculum"    : "Varies based on the experience and interests. Combination of training, internal projects, and client work.",
     "requirements"  : "Some professional programming experience; basic knowledge of Rails.",
     "application"   : "Rolling",
-    "tags"          : "",
+    "tags"          : "b2b",
     "active"        : true
   },
 
@@ -31,7 +49,7 @@
     "curriculum"    : "Explained at https://launchpadlab.com/blog/apprenticeships-how-we-approach-this-old-new-trend",
     "requirements"  : "Experience with Ruby on Rails or Javascript.",
     "application"   : "Rolling",
-    "tags"          : "",
+    "tags"          : "b2b",
     "active"        : true
   },
 
@@ -49,7 +67,7 @@
     "curriculum"    : "Dedicated onboarding, then production work w/ an experienced team.",
     "requirements"  : "Experience not required, usually bootcamp grads.",
     "application"   : "Ongoing, can apply to any program",
-    "tags"          : "product companies",
+    "tags"          : "product companies b2b",
     "active"        : true
   },
 
@@ -67,7 +85,7 @@
     "curriculum"    : "Exercises, internal projects, client work, leaning toward the latter by the end.",
     "requirements"  : "Little to no industry experience required.",
     "application"   : "Check the career page and on Twitter",
-    "tags"          : "",
+    "tags"          : "b2b",
     "active"        : true
   },
 
@@ -85,7 +103,7 @@
     "curriculum"    : "Join an existing team for production work from day one. Growth comes from mentorship on that team.",
     "requirements"  : "Bootcamp or relevant degree preferred.",
     "application"   : "Generally every few months. Email a resume to aappelbaum@signal.co.",
-    "tags"          : "product companies",
+    "tags"          : "product companies b2b",
     "active"        : true
   },
 
@@ -103,7 +121,7 @@
     "curriculum"    : "Practice exercises w/ a senior, working towards production work.",
     "requirements"  : "Bootcamp graduate or equivalent skills.",
     "application"   : "Rolling, check BuiltInChicago.",
-    "tags"          : "product companies",
+    "tags"          : "product companies b2c",
     "active"        : true
   },
 
@@ -121,7 +139,7 @@
     "curriculum"    : "90% pair-programmed client work, 10% personal learning activities.",
     "requirements"  : "Past professional experience helpful.",
     "application"   : "Announced on Twitter and left open for two weeks. Last round started with 111 applications and hired 2.",
-    "tags"          : "",
+    "tags"          : "b2b",
     "active"        : true
   },
 
@@ -139,7 +157,7 @@
     "curriculum"    : "Dedicated onboarding with separate FE and BE mentors, working toward client projects in phase 3.",
     "requirements"  : "Some development skill. Professional coding experience not required.",
     "application"   : "Rolling, check the website",
-    "tags"          : "",
+    "tags"          : "b2b",
     "active"        : true
   },
 
@@ -157,7 +175,7 @@
     "curriculum"    : "Learning projects leading to a capstone building an internal tool.",
     "requirements"  : "Comfort with at least one programming language and a familiarity with basic computer science principles.",
     "application"   : "Rolling",
-    "tags"          : "product companies",
+    "tags"          : "product companies b2c",
     "active"        : true
   },
 
@@ -175,7 +193,7 @@
     "curriculum"    : "Learning mastery of one language / paradigm, plus TDD, to grow into Resident Apprentice",
     "requirements"  : "Little to no industry experience required.",
     "application"   : "Rolling",
-    "tags"          : "",
+    "tags"          : "b2b",
     "active"        : true
   },
 
@@ -193,7 +211,7 @@
     "curriculum"    : "Challenges across languages / paradigms to build a portfolio used to make a hire decision.",
     "requirements"  : "Understanding of at least 2 languages and TDD.",
     "application"   : "Rolling",
-    "tags"          : "",
+    "tags"          : "b2b",
     "active"        : true
   },
 
@@ -211,7 +229,7 @@
     "curriculum"    : "Dedicated Onboarding, Capstone Project",
     "requirements"  : "Some development skill or bootcamp. Professional coding experience not required.",
     "application"   : "July & December",
-    "tags"          : "product companies",
+    "tags"          : "product companies b2c",
     "active"        : true
   }
 ]
