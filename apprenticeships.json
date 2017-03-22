@@ -1,5 +1,5 @@
 [
-  { "name"          : "Sway Brand",
+  { "name"          : "SwayBrand",
     "industry"      : "Marketing",
     "url"           : "http://www.swaybrand.com/jobs",
     "image_url"     : "img/programs/sway_brand.jpg",
@@ -12,7 +12,7 @@
     "stack"         : "Rails, React, React Native",
     "curriculum"    : "Full stack project work with mentor guidance.",
     "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
-    "application"   : "March",
+    "application"   : "Ending April 5th",
     "tags"          : "product companies b2b",
     "active"        : true
   },
