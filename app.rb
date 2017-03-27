@@ -7,7 +7,8 @@ end
 
 def programs
   data = File.read('./apprenticeships.json')
-  JSON.parse(data)
+  data = JSON.parse(data)
+  data.select { |program| program["active"] }
 end
 
 helpers do

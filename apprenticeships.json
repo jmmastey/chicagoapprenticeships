@@ -6,7 +6,7 @@
     "cohort_size"   : "2 Apprentices",
     "duration"      : "4 Months",
     "employment"    : "Contractor, Stipend",
-    "benefits"      : "On hire",
+    "benefits"      : "On Hire",
     "mentor_buddy"  : "Yes",
     "company_size"  : "10-49 Employees",
     "stack"         : "Rails, React, React Native",
@@ -34,6 +34,25 @@
     "tags"          : "b2b b2c",
     "active"        : true
   },
+
+  { "name"          : "Eight-Bot",
+    "industry"      : "Consulting",
+    "url"           : "???",
+    "image_url"     : "img/programs/eight_bot.jpg",
+    "cohort_size"   : "1 Apprentice",
+    "duration"      : "3-4 Months",
+    "employment"    : "Half-time, Salaried",
+    "benefits"      : "On Hire",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "1-9 Employees",
+    "stack"         : "C#, Xamarin, ASP.NET MVC, Azure",
+    "curriculum"    : "Xamarin University Certification (2 certified instructors on hand!)",
+    "requirements"  : "???",
+    "application"   : "???",
+    "tags"          : "???",
+    "active"        : false
+  },
+
 
   { "name"          : "Hashrocket",
     "industry"      : "Consulting",
