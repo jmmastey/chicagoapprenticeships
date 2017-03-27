@@ -1,7 +1,7 @@
 [
   { "name"          : "SwayBrand",
     "industry"      : "Marketing",
-    "url"           : "http://www.swaybrand.com/jobs",
+    "url"           : "http://www.swaybrand.com/careers.html",
     "image_url"     : "img/programs/sway_brand.jpg",
     "cohort_size"   : "2 Apprentices",
     "duration"      : "4 Months",
@@ -91,7 +91,7 @@
 
   { "name"          : "Signal",
     "industry"      : "Digital Marketing",
-    "url"           : "https://www.signal.co/careers/",
+    "url"           : "http://www.signal.co/careers/",
     "image_url"     : "img/programs/signal.jpg",
     "cohort_size"   : "1-2 Apprentices",
     "duration"      : "6 months",
