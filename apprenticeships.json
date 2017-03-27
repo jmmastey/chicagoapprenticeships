@@ -17,6 +17,24 @@
     "active"        : true
   },
 
+  { "name"          : "DevVault",
+    "industry"      : "Consulting",
+    "url"           : "http://www.devvault.com/apprenticeships/",
+    "image_url"     : "img/programs/devvault.jpg",
+    "cohort_size"   : "2-3 Apprentices",
+    "duration"      : "4 Months",
+    "employment"    : "Stipend, Salary on hire",
+    "benefits"      : "No",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "1-9 Employees",
+    "stack"         : "Rails, React, React Native",
+    "curriculum"    : "Client project work with mentor guidance",
+    "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
+    "application"   : "Ending April 15th",
+    "tags"          : "b2b b2c",
+    "active"        : true
+  },
+
   { "name"          : "Hashrocket",
     "industry"      : "Consulting",
     "url"           : "https://hashrocket.com/contact-us/jobs/apprentice",
@@ -233,4 +251,3 @@
     "active"        : true
   }
 ]
- 
