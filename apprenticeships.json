@@ -36,8 +36,8 @@
   },
 
   { "name"          : "Eight-Bot",
-    "industry"      : "Consulting",
-    "url"           : "???",
+    "industry"      : "Consulting / Products",
+    "url"           : "http://www.eightbot.com/",
     "image_url"     : "img/programs/eight_bot.jpg",
     "cohort_size"   : "1 Apprentice",
     "duration"      : "3-4 Months",
@@ -47,12 +47,11 @@
     "company_size"  : "1-9 Employees",
     "stack"         : "C#, Xamarin, ASP.NET MVC, Azure",
     "curriculum"    : "Xamarin University Certification (2 certified instructors on hand!)",
-    "requirements"  : "???",
-    "application"   : "???",
-    "tags"          : "???",
-    "active"        : false
+    "requirements"  : "Professional coding experience not required.",
+    "application"   : "For summer period (apply by April 15)",
+    "tags"          : "b2c b2b",
+    "active"        : true
   },
-
 
   { "name"          : "Hashrocket",
     "industry"      : "Consulting",
