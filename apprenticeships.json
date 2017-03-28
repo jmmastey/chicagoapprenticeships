@@ -5,7 +5,7 @@
     "image_url"     : "img/programs/sway_brand.jpg",
     "cohort_size"   : "2 Apprentices",
     "duration"      : "4 Months",
-    "employment"    : "Contractor, Stipend",
+    "employment"    : "Stipend, Salary on hire",
     "benefits"      : "On Hire",
     "mentor_buddy"  : "Yes",
     "company_size"  : "10-49 Employees",
@@ -13,7 +13,7 @@
     "curriculum"    : "Full stack project work with mentor guidance.",
     "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
     "application"   : "Ending April 5th",
-    "tags"          : "product companies b2b",
+    "tags"          : "product companies b2b full time",
     "active"        : true
   },
 
@@ -31,7 +31,7 @@
     "curriculum"    : "Client project work with mentor guidance",
     "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
     "application"   : "Ending April 15th",
-    "tags"          : "b2b b2c",
+    "tags"          : "b2b b2c full time",
     "active"        : true
   },
 
@@ -49,7 +49,7 @@
     "curriculum"    : "Xamarin University Certification (2 certified instructors on hand!)",
     "requirements"  : "Professional coding experience not required.",
     "application"   : "For summer period (apply by April 15)",
-    "tags"          : "b2c b2b",
+    "tags"          : "b2c b2b product companies",
     "active"        : true
   },
 
