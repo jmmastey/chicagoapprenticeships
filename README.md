@@ -22,3 +22,37 @@ hasn't been necessary.
 
 There are buttons in the interface for relevant info (like product companies
 versus consulting companies), which are driven out of tags.
+
+### Outreach
+
+-----------------------------------
+| Company | Status | Notes |
+|---------|--------|--------------|
+| 20 Spokes | Cold | Missed some calls w/ Ryan Fischer |
+| Backstop Solutions Group | Cold | Andy Santos @ Email |
+| JellyVision | Cold | honestbleeps @ ChiTechSlack Dec 22. Still a program? |
+| LeapFrog Online | It's a Mystery | No reference to a program online. Does it exist? |
+| Brian McCumber | Started? | Did he ever start a program? |
+| ReviewTrackers | Too New | Lucas @ LinkedIn |
+| Raise | No Program | Chi-chi @ LinkedIn. Will Dave Hoover start one? |
+|  |  |  |
+| 8th Light | Done | n/a |
+| Actualize / ACLTC | Skipped | Not really an apprenticeship. |
+| Clique Sudios | Done | Brent @ ChiTechSlack |
+| Conversant LLC | Skipped | Requires technical bachelors. Also includes Alliance Data |
+| DNSimple | Discontinued | Mak @ Twitter |
+| DevMynd | Done | n/a |
+| DevVault | Done | n/a |
+| Dough, Inc | Done | n/a |
+| Eight-Bot | Done | Calvin @ CTDI & LevelOffice |
+| Enova | Done | n/a |
+| Groupon | Discontinued | n/a |
+| HashRocket | Done | Matt P @ email |
+| Launchpad Labs | Done | n/a |
+| Narrative Science | Done | Marie @ email |
+| Signal | Done | Cliff @ Email |
+| SwayBrand | Done | n/a |
+| TableXI | Done | Noel @ email |
+| TrunkClub | Done | Mike @ LinkedIn |
+| Vokal | Stopped? | Marty @ LinkedIn |
+-----------------------------------
