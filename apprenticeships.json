@@ -14,7 +14,7 @@
     "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
     "application"   : "Ending April 5th",
     "tags"          : "product companies b2b contract",
-    "active"        : true
+    "active"        : false
   },
 
   { "name"          : "workVAULT",
@@ -32,7 +32,7 @@
     "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
     "application"   : "Ending April 15th",
     "tags"          : "b2b contract product companies",
-    "active"        : true
+    "active"        : false
   },
 
   { "name"          : "Eight-Bot",
