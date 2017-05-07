@@ -3198,7 +3198,7 @@ body.theme--boxed section.section--overlap + section:not(.bg--white):not(.bg--da
 }
 @font-face {
   font-family: 'Montserrat';
-  src: url('../fonts/Montserrat-SemiBold.otf') format('opentype');
+  src: url('Montserrat-SemiBold.otf') format('opentype');
   font-weight: 600;
   font-style: normal;
 }

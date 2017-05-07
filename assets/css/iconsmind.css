@@ -1,8 +1,8 @@
 @font-face {
 	font-family: 'iconsmind';
-	src:url('../fonts/iconsmind.eot?#iefix-rdmvgc') format('embedded-opentype');
-	src:url('../fonts/iconsmind.woff') format('woff'),
-		url('../fonts/iconsmind.ttf') format('truetype');
+	src:url('iconsmind.eot?#iefix-rdmvgc') format('embedded-opentype');
+	src:url('iconsmind.woff') format('woff'),
+		url('iconsmind.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }

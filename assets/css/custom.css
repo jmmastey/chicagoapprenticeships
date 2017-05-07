@@ -3,7 +3,7 @@ Add your custom styles below
 ****************************/
 
 body {
-  background: transparent url("/img/chicago-skyline.jpg") 0px 100px no-repeat;
+  background: transparent url("/assets/chicago-skyline.jpg") 0px 100px no-repeat;
 }
 
 h1 {
