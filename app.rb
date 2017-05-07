@@ -1,6 +1,10 @@
 require 'sinatra'
 require 'json'
 
+before do
+  redirect request.url.sub(/www\./, ''), 301 if request.host =~ /^www/
+end
+
 get '/' do
   erb :index, locals: { programs: programs }
 end
