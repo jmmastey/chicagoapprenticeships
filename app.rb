@@ -13,6 +13,9 @@ class ChicagoApprenticeships < Sinatra::Base
   environment.append_path "assets/img"
   environment.append_path "assets/fonts"
 
+  environment.js_compressor  = :uglify
+  environment.css_compressor = :scss
+
   # don't allow www
   before do
     redirect request.url.sub(/www\./, ''), 301 if request.host =~ /^www/

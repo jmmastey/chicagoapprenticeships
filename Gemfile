@@ -5,4 +5,8 @@ gem "sinatra"
 gem "thin"
 gem "json"
 
+# assets!
 gem "sprockets"
+gem "uglifier"
+gem "sass"
+gem "execjs"
