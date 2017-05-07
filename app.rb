@@ -1,6 +1,8 @@
 require 'sinatra'
 require 'json'
 
+use Rack::Deflater
+
 before do
   redirect request.url.sub(/www\./, ''), 301 if request.host =~ /^www/
 end
