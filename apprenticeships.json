@@ -91,7 +91,7 @@
 
   { "name"          : "Narrative Science",
     "industry"      : "Natural Language Generation",
-    "url"           : "https://www.narrativescience.com/",
+    "url"           : "https://narrativescience.com/Resources/About-Narrative-Science/Careers",
     "image_url"     : "programs/narrative_science.jpg",
     "cohort_size"   : "N/A (Rolling)",
     "duration"      : "4 Months",
@@ -163,7 +163,7 @@
 
   { "name"          : "DevMynd",
     "industry"      : "Consulting",
-    "url"           : "https://www.devmynd.com/about/guidebooks/apprenticeship/",
+    "url"           : "https://www.devmynd.com/culture/careers/",
     "image_url"     : "programs/devmynd.jpg",
     "cohort_size"   : "2 Apprentices",
     "duration"      : "3-9 Months",
@@ -253,7 +253,7 @@
 
   { "name"          : "Enova International",
     "industry"      : "Fintech",
-    "url"           : "http://enova.com",
+    "url"           : "https://www.enova.com/careers/",
     "image_url"     : "programs/enova.jpg",
     "cohort_size"   : "2 Apprentices",
     "duration"      : "6 Months",
