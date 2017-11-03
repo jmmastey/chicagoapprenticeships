@@ -33,10 +33,10 @@ versus consulting companies), which are driven out of tags.
 | Braintree | Starting | Ask Lauren when she gets a program going |
 | JellyVision | Cold | honestbleeps @ ChiTechSlack Dec 22. Still a program? |
 | LeapFrog Online | It's a Mystery | No reference to a program online. Does it exist? |
-| Brian McCumber | Started? | Did he ever start a program? |
 | ReviewTrackers | Too New | Lucas @ LinkedIn |
 | Raise | No Program | Chi-chi @ LinkedIn. Will Dave Hoover start one? |
 | Newmark Grubb Knight Frank | Not sure yes | http://jobview.monster.com/Software-Engineer-Job-Chicago-IL-US-183798965.aspx?WT.mc_n=Indeed_US&jvs=uf,in1,gw&from=indeed |
+| ShopRunner | Starting | Not sure who I know here |
 |  |  |  |
 | 8th Light | Done | n/a |
 | Actualize / ACLTC | Skipped | Not really an apprenticeship. |

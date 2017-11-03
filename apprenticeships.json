@@ -35,6 +35,24 @@
     "active"        : false
   },
 
+  { "name"          : "The Difference Engine",
+    "industry"      : "Consulting / Products",
+    "url"           : "www.thedifferenceengine.io",
+    "image_url"     : "programs/difference_engine.jpg",
+    "cohort_size"   : "28 Apprentices",
+    "duration"      : "4 Months",
+    "employment"    : "Part time, Volunteer",
+    "benefits"      : "No",
+    "mentor_buddy"  : "Yes",
+    "company_size"  : "1-9 Employees",
+    "stack"         : "Rails, Angular, React, JavaScript, Sinatra",
+    "curriculum"    : "Production client work & internal tools.",
+    "requirements"  : "Bootcamp graduates or equivalent; at least one language and basic CS principles.",
+    "application"   : "Rolling",
+    "tags"          : "product companies volunteer",
+    "active"        : true
+  },
+
   { "name"          : "Eight-Bot",
     "industry"      : "Consulting / Products",
     "url"           : "http://www.eightbot.com/",
