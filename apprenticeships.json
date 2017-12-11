@@ -37,7 +37,7 @@
 
   { "name"          : "The Difference Engine",
     "industry"      : "Consulting / Products",
-    "url"           : "www.thedifferenceengine.io",
+    "url"           : "http://www.thedifferenceengine.io",
     "image_url"     : "programs/difference_engine.jpg",
     "cohort_size"   : "28 Apprentices",
     "duration"      : "4 Months",
