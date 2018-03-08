@@ -1,4 +1,22 @@
 [
+  { "name"          : "Digital Bridge Solutions",
+    "industry"      : "Consulting",
+    "url"           : "http://www.dbridgesolutions.com",
+    "image_url"     : "",
+    "cohort_size"   : "",
+    "duration"      : "",
+    "employment"    : "",
+    "benefits"      : "",
+    "mentor_buddy"  : "",
+    "company_size"  : "10-49 Employees",
+    "stack"         : "Python, Drupal, PHP, Magento",
+    "curriculum"    : "",
+    "requirements"  : "",
+    "application"   : "",
+    "tags"          : "b2b",
+    "active"        : false
+  },
+
   { "name"          : "SwayBrand",
     "industry"      : "Marketing",
     "url"           : "http://www.swaybrand.com/developer-apprentice",
