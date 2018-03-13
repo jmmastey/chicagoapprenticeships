@@ -7021,9 +7021,11 @@ section:first-of-type.imagebg + .masonry-contained {
 }
 .tag-cloud li {
   display: inline-block;
+  margin: 3px 4px;
 }
 .tag-cloud .btn--sm {
-  padding: 0 0.8125em 1px 0.8125em;
+  padding: 0 1em 1px 1em;
+  font-size: 16px;
 }
 .blog-item-1 h4 {
   margin-bottom: 0.56521739130435em;
