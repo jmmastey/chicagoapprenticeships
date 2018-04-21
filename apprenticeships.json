@@ -14,6 +14,7 @@
     "requirements"  : "6 months or more dev training, experience a plus",
     "application"   : "Ad hoc",
     "tags"          : "b2b",
+    "color"         : "rgb(226, 97, 29)",
     "active"        : true
   },
 
@@ -32,6 +33,7 @@
     "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
     "application"   : "Ending April 5th",
     "tags"          : "product companies b2b contract",
+    "color"         : "#009900",
     "active"        : false
   },
 
@@ -50,6 +52,7 @@
     "requirements"  : "Knowledge of Rails, JS. Professional coding experience not required.",
     "application"   : "Ending April 15th",
     "tags"          : "b2b contract product companies",
+    "color"         : "#009900",
     "active"        : false
   },
 
@@ -68,6 +71,7 @@
     "requirements"  : "Bootcamp graduates or equivalent; at least one language and basic CS principles.",
     "application"   : "Rolling",
     "tags"          : "product companies volunteer",
+    "color"         : "rgb(37, 37, 37)",
     "active"        : true
   },
 
@@ -86,6 +90,7 @@
     "requirements"  : "Professional coding experience not required.",
     "application"   : "For summer period (apply by April 15)",
     "tags"          : "b2c b2b product companies",
+    "color"         : "rgb(207, 80, 53)",
     "active"        : true
   },
 
@@ -104,6 +109,7 @@
     "requirements"  : "Some professional programming experience; basic knowledge of Rails.",
     "application"   : "Rolling",
     "tags"          : "b2b",
+    "color"         : "rgb(130, 12, 22)",
     "active"        : true
   },
 
@@ -122,6 +128,7 @@
     "requirements"  : "Experience with Ruby on Rails or Javascript.",
     "application"   : "Rolling",
     "tags"          : "b2b",
+    "color"         : "rgb(52, 124, 168)",
     "active"        : true
   },
 
@@ -140,6 +147,7 @@
     "requirements"  : "Experience not required, usually bootcamp grads.",
     "application"   : "Ongoing, can apply to any program",
     "tags"          : "product companies b2b",
+    "color"         : "rgb(107, 184, 51)",
     "active"        : true
   },
 
@@ -158,6 +166,7 @@
     "requirements"  : "Little to no industry experience required.",
     "application"   : "Check the career page and on Twitter",
     "tags"          : "b2b",
+    "color"         : "rgb(37, 13, 6)",
     "active"        : true
   },
 
@@ -176,6 +185,7 @@
     "requirements"  : "Bootcamp or relevant degree preferred.",
     "application"   : "Generally in the Fall. Email a resume to aappelbaum@signal.co.",
     "tags"          : "product companies b2b",
+    "color"         : "rgb(205, 0, 49)",
     "active"        : true
   },
 
@@ -194,6 +204,7 @@
     "requirements"  : "Bootcamp graduate or equivalent skills.",
     "application"   : "Rolling, check BuiltInChicago.",
     "tags"          : "product companies b2c",
+    "color"         : "rgb(207, 87, 34)",
     "active"        : true
   },
 
@@ -212,6 +223,7 @@
     "requirements"  : "Past professional experience helpful.",
     "application"   : "Announced on Twitter and left open for two weeks. Last round started with 111 applications and hired 2.",
     "tags"          : "b2b",
+    "color"         : "rgb(74, 74, 74)",
     "active"        : true
   },
 
@@ -230,6 +242,7 @@
     "requirements"  : "Some development skill. Professional coding experience not required.",
     "application"   : "Rolling, check the website",
     "tags"          : "b2b",
+    "color"         : "rgb(234, 114, 10)",
     "active"        : true
   },
 
@@ -248,6 +261,7 @@
     "requirements"  : "Comfort with at least one programming language and a familiarity with basic computer science principles.",
     "application"   : "Rolling",
     "tags"          : "product companies b2c",
+    "color"         : "rgb(17, 22, 30)",
     "active"        : true
   },
 
@@ -266,6 +280,7 @@
     "requirements"  : "Little to no industry experience required.",
     "application"   : "Rolling",
     "tags"          : "b2b",
+    "color"         : "rgb(74, 75, 70)",
     "active"        : true
   },
 
@@ -284,6 +299,7 @@
     "requirements"  : "Understanding of at least 2 languages and TDD.",
     "application"   : "Rolling",
     "tags"          : "b2b",
+    "color"         : "rgb(74, 75, 70)",
     "active"        : true
   },
 
@@ -302,6 +318,7 @@
     "requirements"  : "Some development skill or bootcamp. Professional coding experience not required.",
     "application"   : "July & December",
     "tags"          : "product companies b2c",
-    "active"        : true
+    "color"         : "#009900",
+    "active"        : false
   }
 ]

@@ -16,11 +16,23 @@ h1 {
   display: inline-block;
 }
 
-#city-section .row {
-  height:90px;
-  padding-left:60%;
-  position:relative;
-  top: -35px;
+#city-section {
+  margin-bottom: 1em;
+
+  .row {
+    height:90px;
+    padding-left:35%;
+    position:relative;
+    top: -35px;
+
+    h3 { text-align: left; }
+  }
+}
+
+.input-with-icon input {
+  box-shadow: 1px 1px #eee, -1px -1px #efefef;
+  margin-bottom: 1px;
+  width: 99%;
 }
 
 @media (max-width: 991px) {
@@ -46,6 +58,7 @@ h1 {
 
 .program .card__image {
   border-bottom:1px solid #ddd;
+  border-top: 5px solid #444;
 }
 
 .program .card__body .card__title {

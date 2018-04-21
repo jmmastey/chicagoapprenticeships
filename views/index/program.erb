@@ -1,7 +1,7 @@
 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 masonry__item program" data-tags="<%= search_tags(program) %>">
   <a href="<%= program["url"] %>">
     <div class="card card-4">
-      <div class="card__image">
+      <div class="card__image" style="border-top-color: <%= program["color"] %>">
         <img alt="<%= program["name"] %> logo" src="assets/<%= program["image_url"] %>">
       </div>
       <div class="card__body boxed boxed--sm bg--white">
