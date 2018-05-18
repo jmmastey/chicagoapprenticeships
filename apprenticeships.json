@@ -281,7 +281,7 @@
     "application"   : "Rolling",
     "tags"          : "b2b",
     "color"         : "rgb(74, 75, 70)",
-    "active"        : true
+    "active"        : false
   },
 
   { "name"          : "8th Light (Resident)",
