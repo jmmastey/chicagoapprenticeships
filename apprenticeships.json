@@ -208,10 +208,10 @@
     "active"        : true
   },
 
-  { "name"          : "DevMynd",
+  { "name"          : "Tandem",
     "industry"      : "Consulting",
-    "url"           : "https://www.devmynd.com/culture/careers/",
-    "image_url"     : "programs/devmynd.jpg",
+    "url"           : "https://madeintandem.com/careers/#singlepage!apprenticeship-program!about",
+    "image_url"     : "programs/tandem.jpg",
     "cohort_size"   : "2 Apprentices",
     "duration"      : "3-9 Months",
     "employment"    : "Full-Time, Salaried",
