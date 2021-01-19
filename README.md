@@ -58,9 +58,9 @@ versus consulting companies), which are driven out of tags.
 | TrunkClub | Done | Mike @ LinkedIn |
 | Vokal | Stopped? | Marty @ LinkedIn |
 |  |  |  |
-| OppLoans | TBD - 2021 | No Response - emailed Alex Riewer (Senior Technical Recruiter) https://www.linkedin.com/in/alexandrariewer/ |
-| Gemini | TBD - 2021 | No Response - emailed Jonathan Tamblyn and Andrei Montchik (Director Talent Acquisition & Lead Software Engineer) https://www.linkedin.com/in/jonathan-tamblyn/ & https://www.linkedin.com/in/andreimontchik/ |
-| Root Insurance | TBD - 2021 | No Response - emailed Chris Evans (Technical Recruiting Manager) https://www.linkedin.com/in/cjevans7/ |
+| OppLoans | No program or plans to make one (January 2021) | Response from Alex Riewer (Senior Technical Recruiter) https://www.linkedin.com/in/alexandrariewer/ |
+| Gemini | No program (January 2021) | Response from Andrei Montchik (Lead Software Engineer) https://www.linkedin.com/in/andreimontchik/ |
+| Root Insurance | No current program (January 2021) - They had a program in the past | Response from Chris Evans (Technical Recruiting Manager) https://www.linkedin.com/in/cjevans7/ |
 | Reverb | TBD - 2021 | No Response - emailed Mark Yoon and Tiffany Martin (Engineering Manager and Senior Technical Manager) https://www.linkedin.com/in/swimmerslim/ & https://www.linkedin.com/in/tiffanymartininhudson/ |
-| ActiveCampaign | Trying to start one - 2021 | Talked to Sean Wolters (Engineering Manager) https://www.linkedin.com/in/seanwolter/ |
+| ActiveCampaign | Trying to start one (January 2021) | Talked to Sean Wolters (Engineering Manager) https://www.linkedin.com/in/seanwolter/ |
 -----------------------------------
