@@ -30,37 +30,50 @@ versus consulting companies), which are driven out of tags.
 |---------|--------|--------------|
 | 20 Spokes | Cold | Missed some calls w/ Ryan Fischer |
 | Backstop Solutions Group | Cold | Andy Santos @ Email |
-| Braintree | Starting | Ask Lauren when she gets a program going |
 | JellyVision | Cold | honestbleeps @ ChiTechSlack Dec 22. Still a program? |
 | LeapFrog Online | It's a Mystery | No reference to a program online. Does it exist? |
 | ReviewTrackers | Too New | Lucas @ LinkedIn |
 | Raise | No Program | Chi-chi @ LinkedIn. Will Dave Hoover start one? |
 | Newmark Grubb Knight Frank | Not sure yes | http://jobview.monster.com/Software-Engineer-Job-Chicago-IL-US-183798965.aspx?WT.mc_n=Indeed_US&jvs=uf,in1,gw&from=indeed |
-| ShopRunner | Starting | Not sure who I know here |
 |  |  |  |
-| 8th Light | Done | n/a |
-| Actualize / ACLTC | Skipped | Not really an apprenticeship. |
-| Clique Sudios | Done | Brent @ ChiTechSlack |
 | Conversant LLC | Skipped | Requires technical bachelors. Also includes Alliance Data |
 | DNSimple | Discontinued | Mak @ Twitter |
 | DevMynd | Done | n/a |
 | DevVault | Done | n/a |
-| Dough, Inc | Done | n/a |
-| Eight-Bot | Done | Calvin @ CTDI & LevelOffice |
 | Enova | Done | n/a |
 | Groupon | Discontinued | n/a |
-| HashRocket | Done | Matt P @ email |
-| Launchpad Labs | Done | n/a |
-| Narrative Science | Done | Marie @ email |
-| Signal | Done | Cliff @ Email |
 | SwayBrand | Done | n/a |
-| TableXI | Done | Noel @ email |
-| TrunkClub | Done | Mike @ LinkedIn |
-| Vokal | Stopped? | Marty @ LinkedIn |
 |  |  |  |
-| OppLoans | TBD - 2021 | No Response - emailed Alex Riewer (Senior Technical Recruiter) https://www.linkedin.com/in/alexandrariewer/ |
-| Gemini | TBD - 2021 | No Response - emailed Jonathan Tamblyn and Andrei Montchik (Director Talent Acquisition & Lead Software Engineer) https://www.linkedin.com/in/jonathan-tamblyn/ & https://www.linkedin.com/in/andreimontchik/ |
-| Root Insurance | TBD - 2021 | No Response - emailed Chris Evans (Technical Recruiting Manager) https://www.linkedin.com/in/cjevans7/ |
-| Reverb | TBD - 2021 | No Response - emailed Mark Yoon and Tiffany Martin (Engineering Manager and Senior Technical Manager) https://www.linkedin.com/in/swimmerslim/ & https://www.linkedin.com/in/tiffanymartininhudson/ |
-| ActiveCampaign | Trying to start one - 2021 | Talked to Sean Wolters (Engineering Manager) https://www.linkedin.com/in/seanwolter/ |
+| OppLoans | No program or plans to make one (January 2021) | Response from Alex Riewer (Senior Technical Recruiter) https://www.linkedin.com/in/alexandrariewer/ |
+| Gemini | No program (January 2021) | Response from Andrei Montchik (Lead Software Engineer) https://www.linkedin.com/in/andreimontchik/ |
+| Root Insurance | No current program (January 2021) - They had a program in the past | Response from Chris Evans (Technical Recruiting Manager) https://www.linkedin.com/in/cjevans7/ |
+| Reverb | TBD - 2021 | No current program (January 2021) | Response from Mark Yoon (Engineering Manager) https://www.linkedin.com/in/swimmerslim/ |
+| ActiveCampaign | Trying to start one (January 2021) | Talked to Sean Wolters (Engineering Manager) https://www.linkedin.com/in/seanwolter/ |
+| NCSA - Next College Student Athlete | Trying to start one but they are in very early stages (January 2021) | Talked to Patrick Miller (Engineering Manager) https://www.linkedin.com/in/patrick-miller-08b52b63/ |
+| Paypal/Venmo/Braintree | No Response | Emailed Nick Anderson (Technical Recruiter) https://www.linkedin.com/in/nick-anderson-9096a4164/ |
+| Actualize / ACLTC | Formerly connected to The Difference Engine | Coding Bootcamp |
+| ShopRunner | No Response | Emailed Michelangelo D'Agostino & Rachel Kraska (CTO, Director of TA) https://www.linkedin.com/in/michelangelod/ https://www.linkedin.com/in/rachelkraska/ |
+| Vokal | No Response | Emailed Reid Lappin (CEO) https://www.linkedin.com/in/reidlappin/ |
+
+-----------------------------------
+
+### Existing Programs
+
+-----------------------------------
+| Company | Status | Notes |
+|---------|--------|--------------|
+| 8th Light | Live on Chicago apprenticeships website | n/a |
+| Clique Studios | Live on Chicago apprenticeships website | n/a |
+| TrunkClub | Live on Chicago apprenticeships website | n/a |
+| Eight-Bot | Live on Chicago apprenticeships website | n/a |
+| Dough, Inc | Live on Chicago apprenticeships website | n/a |
+| Signal | Live on Chicago apprenticeships website | n/a |
+| TableXI | Live on Chicago apprenticeships website | n/a |
+| Narrative Science | Live on Chicago apprenticeships website | n/a |
+| HashRocket | Live on Chicago apprenticeships website | n/a |
+| Launchpad Labs | Live on Chicago apprenticeships website | n/a |
+| The Difference Engine | Live on Chicago apprenticeships website | n/a |
+| Digital Bridge Solutions | Live on Chicago apprenticeships website | n/a |
+| Tandem | Live on Chicago apprenticeships website | n/a |
+
 -----------------------------------
