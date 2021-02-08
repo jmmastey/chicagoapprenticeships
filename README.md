@@ -31,16 +31,12 @@ versus consulting companies), which are driven out of tags.
 | 20 Spokes | Cold | Missed some calls w/ Ryan Fischer |
 | Backstop Solutions Group | Cold | Andy Santos @ Email |
 | JellyVision | Cold | honestbleeps @ ChiTechSlack Dec 22. Still a program? |
-| LeapFrog Online | It's a Mystery | No reference to a program online. Does it exist? |
-| ReviewTrackers | Too New | Lucas @ LinkedIn |
 | Raise | No Program | Chi-chi @ LinkedIn. Will Dave Hoover start one? |
 | Newmark Grubb Knight Frank | Not sure yes | http://jobview.monster.com/Software-Engineer-Job-Chicago-IL-US-183798965.aspx?WT.mc_n=Indeed_US&jvs=uf,in1,gw&from=indeed |
 |  |  |  |
 | Conversant LLC | Skipped | Requires technical bachelors. Also includes Alliance Data |
 | DNSimple | Discontinued | Mak @ Twitter |
-| DevMynd | Done | n/a |
 | DevVault | Done | n/a |
-| Enova | Done | n/a |
 | Groupon | Discontinued | n/a |
 | SwayBrand | Done | n/a |
 |  |  |  |
@@ -54,6 +50,11 @@ versus consulting companies), which are driven out of tags.
 | Actualize / ACLTC | Formerly connected to The Difference Engine | Coding Bootcamp |
 | ShopRunner | No Program | Response from Rachel Kraska (Director of TA) https://www.linkedin.com/in/michelangelod/ https://www.linkedin.com/in/rachelkraska/ |
 | Vokal | No Response | Emailed Reid Lappin (CEO) https://www.linkedin.com/in/reidlappin/ |
+| Enova | No Response | Emailed Dan Kirsche and Luai Mahmud (Head Of Software Engineering and Software Engineering Division Head - At one point ran the program) https://www.linkedin.com/in/dan-kirsche-b8a795/ https://www.linkedin.com/in/luaimahmud/ |
+| DevMynd | Live on Chicago apprenticeships website - Now Tandem | n/a |
+| LeapFrog Online - iProspect | No Response Eric Cline and Paul Jacobsen (Director of Software Engineering and VP of Engineering) | Emailed https://www.linkedin.com/in/eric-cline-98911318/ https://www.linkedin.com/in/paulsjacobsen/ |
+| Legacy.com | No Response | Emailed Kevin Boers (Director of Test Automation) https://www.linkedin.com/in/kevinboers/ |
+| ReviewTrackers | No Response | Emailed Andrew Platkin and Nathan Reynolds (Principal Engineer and VP Engineering) https://www.linkedin.com/in/andrewplatkin/ https://www.linkedin.com/in/nvreynolds/ |
 
 -----------------------------------
 
