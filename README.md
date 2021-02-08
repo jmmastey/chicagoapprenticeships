@@ -48,13 +48,13 @@ versus consulting companies), which are driven out of tags.
 | NCSA - Next College Student Athlete | Trying to start one but they are in very early stages (January 2021) | Talked to Patrick Miller (Engineering Manager) https://www.linkedin.com/in/patrick-miller-08b52b63/ |
 | Paypal/Venmo/Braintree | No Response | Emailed Nick Anderson (Technical Recruiter) https://www.linkedin.com/in/nick-anderson-9096a4164/ |
 | Actualize / ACLTC | Formerly connected to The Difference Engine | Coding Bootcamp |
-| ShopRunner | No Program | Response from Rachel Kraska (Director of TA) https://www.linkedin.com/in/michelangelod/ https://www.linkedin.com/in/rachelkraska/ |
+| ShopRunner | No Program (February 2021) | Response from Rachel Kraska (Director of TA) https://www.linkedin.com/in/michelangelod/ https://www.linkedin.com/in/rachelkraska/ |
 | Vokal | No Response | Emailed Reid Lappin (CEO) https://www.linkedin.com/in/reidlappin/ |
 | Enova | No Response | Emailed Dan Kirsche and Luai Mahmud (Head Of Software Engineering and Software Engineering Division Head - At one point ran the program) https://www.linkedin.com/in/dan-kirsche-b8a795/ https://www.linkedin.com/in/luaimahmud/ |
 | DevMynd | Live on Chicago apprenticeships website - Now Tandem | n/a |
-| LeapFrog Online - iProspect | No Response Eric Cline and Paul Jacobsen (Director of Software Engineering and VP of Engineering) | Emailed https://www.linkedin.com/in/eric-cline-98911318/ https://www.linkedin.com/in/paulsjacobsen/ |
+| LeapFrog Online - iProspect | No Response | Emailed Eric Cline and Paul Jacobsen (Director of Software Engineering and VP of Engineering) https://www.linkedin.com/in/eric-cline-98911318/ https://www.linkedin.com/in/paulsjacobsen/ |
 | Legacy.com | No Response | Emailed Kevin Boers (Director of Test Automation) https://www.linkedin.com/in/kevinboers/ |
-| ReviewTrackers | No Response | Emailed Andrew Platkin and Nathan Reynolds (Principal Engineer and VP Engineering) https://www.linkedin.com/in/andrewplatkin/ https://www.linkedin.com/in/nvreynolds/ |
+| ReviewTrackers | No program (February 2021) | Emailed Andrew Platkin and Nathan Reynolds. Response from Nathan. (Principal Engineer and VP Engineering) https://www.linkedin.com/in/andrewplatkin/ https://www.linkedin.com/in/nvreynolds/ |
 
 -----------------------------------
 
