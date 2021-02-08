@@ -54,7 +54,7 @@ versus consulting companies), which are driven out of tags.
 | DevMynd | Live on Chicago apprenticeships website - Now Tandem | n/a |
 | LeapFrog Online - iProspect | No Response | Emailed Eric Cline and Paul Jacobsen (Director of Software Engineering and VP of Engineering) https://www.linkedin.com/in/eric-cline-98911318/ https://www.linkedin.com/in/paulsjacobsen/ |
 | Legacy.com | No Response | Emailed Kevin Boers (Director of Test Automation) https://www.linkedin.com/in/kevinboers/ |
-| ReviewTrackers | No Response | Emailed Andrew Platkin and Nathan Reynolds (Principal Engineer and VP Engineering) https://www.linkedin.com/in/andrewplatkin/ https://www.linkedin.com/in/nvreynolds/ |
+| ReviewTrackers | No program (February 2021) | Emailed Andrew Platkin and Nathan Reynolds. Response from Nathan. (Principal Engineer and VP Engineering) https://www.linkedin.com/in/andrewplatkin/ https://www.linkedin.com/in/nvreynolds/ |
 
 -----------------------------------
 
