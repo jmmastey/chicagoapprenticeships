@@ -52,7 +52,7 @@ versus consulting companies), which are driven out of tags.
 | NCSA - Next College Student Athlete | Trying to start one but they are in very early stages (January 2021) | Talked to Patrick Miller (Engineering Manager) https://www.linkedin.com/in/patrick-miller-08b52b63/ |
 | Paypal/Venmo/Braintree | No Response | Emailed Nick Anderson (Technical Recruiter) https://www.linkedin.com/in/nick-anderson-9096a4164/ |
 | Actualize / ACLTC | Formerly connected to The Difference Engine | Coding Bootcamp |
-| ShopRunner | No Response | Emailed Michelangelo D'Agostino & Rachel Kraska (CTO, Director of TA) https://www.linkedin.com/in/michelangelod/ https://www.linkedin.com/in/rachelkraska/ |
+| ShopRunner | No Program | Response from Rachel Kraska (Director of TA) https://www.linkedin.com/in/michelangelod/ https://www.linkedin.com/in/rachelkraska/ |
 | Vokal | No Response | Emailed Reid Lappin (CEO) https://www.linkedin.com/in/reidlappin/ |
 
 -----------------------------------
