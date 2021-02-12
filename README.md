@@ -28,7 +28,6 @@ versus consulting companies), which are driven out of tags.
 -----------------------------------
 | Company | Status | Notes |
 |---------|--------|--------------|
-| 20 Spokes | Cold | Missed some calls w/ Ryan Fischer |
 | Backstop Solutions Group | Cold | Andy Santos @ Email |
 | JellyVision | Cold | honestbleeps @ ChiTechSlack Dec 22. Still a program? |
 | Raise | No Program | Chi-chi @ LinkedIn. Will Dave Hoover start one? |
@@ -53,8 +52,10 @@ versus consulting companies), which are driven out of tags.
 | Enova | No Response | Emailed Dan Kirsche and Luai Mahmud (Head Of Software Engineering and Software Engineering Division Head - At one point ran the program) https://www.linkedin.com/in/dan-kirsche-b8a795/ https://www.linkedin.com/in/luaimahmud/ |
 | DevMynd | Live on Chicago apprenticeships website - Now Tandem | n/a |
 | LeapFrog Online - iProspect | No Response | Emailed Eric Cline and Paul Jacobsen (Director of Software Engineering and VP of Engineering) https://www.linkedin.com/in/eric-cline-98911318/ https://www.linkedin.com/in/paulsjacobsen/ |
-| Legacy.com | No Response | Emailed Kevin Boers (Director of Test Automation) https://www.linkedin.com/in/kevinboers/ |
+| Legacy.com | No program (February 2021) | Emailed Kevin Boers (Director of Test Automation) https://www.linkedin.com/in/kevinboers/ |
 | ReviewTrackers | No program (February 2021) | Emailed Andrew Platkin and Nathan Reynolds. Response from Nathan. (Principal Engineer and VP Engineering) https://www.linkedin.com/in/andrewplatkin/ https://www.linkedin.com/in/nvreynolds/ |
+
+| 20 Spokes | Program (February 2021) | Scheduling call with Ryan Fischer |
 
 -----------------------------------
 
