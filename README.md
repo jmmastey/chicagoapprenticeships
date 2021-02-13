@@ -49,7 +49,7 @@ versus consulting companies), which are driven out of tags.
 | Actualize / ACLTC | Formerly connected to The Difference Engine | Coding Bootcamp |
 | ShopRunner | No Program (February 2021) | Response from Rachel Kraska (Director of TA) https://www.linkedin.com/in/michelangelod/ https://www.linkedin.com/in/rachelkraska/ |
 | Vokal | No Response | Emailed Reid Lappin (CEO) https://www.linkedin.com/in/reidlappin/ |
-| Enova | No Response | Emailed Dan Kirsche and Luai Mahmud (Head Of Software Engineering and Software Engineering Division Head - At one point ran the program) https://www.linkedin.com/in/dan-kirsche-b8a795/ https://www.linkedin.com/in/luaimahmud/ |
+| Enova | No program (February 2021) | Emailed Dan Kirsche and Luai Mahmud. Response from Luai (Head Of Software Engineering and Software Engineering Division Head - At one point ran the program) https://www.linkedin.com/in/dan-kirsche-b8a795/ https://www.linkedin.com/in/luaimahmud/ |
 | DevMynd | Live on Chicago apprenticeships website - Now Tandem | n/a |
 | LeapFrog Online - iProspect | No Response | Emailed Eric Cline and Paul Jacobsen (Director of Software Engineering and VP of Engineering) https://www.linkedin.com/in/eric-cline-98911318/ https://www.linkedin.com/in/paulsjacobsen/ |
 | Legacy.com | No program (February 2021) | Emailed Kevin Boers (Director of Test Automation) https://www.linkedin.com/in/kevinboers/ |
