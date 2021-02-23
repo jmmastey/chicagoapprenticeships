@@ -28,9 +28,6 @@ versus consulting companies), which are driven out of tags.
 -----------------------------------
 | Company | Status | Notes |
 |---------|--------|--------------|
-| Backstop Solutions Group | Cold | Andy Santos @ Email |
-| JellyVision | Cold | honestbleeps @ ChiTechSlack Dec 22. Still a program? |
-| Raise | No Program | Chi-chi @ LinkedIn. Will Dave Hoover start one? |
 | Newmark Grubb Knight Frank | Not sure yes | http://jobview.monster.com/Software-Engineer-Job-Chicago-IL-US-183798965.aspx?WT.mc_n=Indeed_US&jvs=uf,in1,gw&from=indeed |
 |  |  |  |
 | Conversant LLC | Skipped | Requires technical bachelors. Also includes Alliance Data |
@@ -49,11 +46,14 @@ versus consulting companies), which are driven out of tags.
 | Actualize / ACLTC | Formerly connected to The Difference Engine | Coding Bootcamp |
 | ShopRunner | No Program (February 2021) | Response from Rachel Kraska (Director of TA) https://www.linkedin.com/in/michelangelod/ https://www.linkedin.com/in/rachelkraska/ |
 | Vokal | No Response | Emailed Reid Lappin (CEO) https://www.linkedin.com/in/reidlappin/ |
-| Enova | No program (February 2021) | Emailed Dan Kirsche and Luai Mahmud. Response from Luai (Head Of Software Engineering and Software Engineering Division Head - At one point ran the program) https://www.linkedin.com/in/dan-kirsche-b8a795/ https://www.linkedin.com/in/luaimahmud/ |
+| Enova | No Program (February 2021) | Emailed Dan Kirsche and Luai Mahmud. Response from Luai (Head Of Software Engineering and Software Engineering Division Head - At one point ran the program) https://www.linkedin.com/in/dan-kirsche-b8a795/ https://www.linkedin.com/in/luaimahmud/ |
 | DevMynd | Live on Chicago apprenticeships website - Now Tandem | n/a |
 | LeapFrog Online - iProspect | No Response | Emailed Eric Cline and Paul Jacobsen (Director of Software Engineering and VP of Engineering) https://www.linkedin.com/in/eric-cline-98911318/ https://www.linkedin.com/in/paulsjacobsen/ |
-| Legacy.com | No program (February 2021) | Emailed Kevin Boers (Director of Test Automation) https://www.linkedin.com/in/kevinboers/ |
-| ReviewTrackers | No program (February 2021) | Emailed Andrew Platkin and Nathan Reynolds. Response from Nathan. (Principal Engineer and VP Engineering) https://www.linkedin.com/in/andrewplatkin/ https://www.linkedin.com/in/nvreynolds/ |
+| Legacy.com | No Program (February 2021) | Emailed Kevin Boers (Director of Test Automation) https://www.linkedin.com/in/kevinboers/ |
+| ReviewTrackers | No Program (February 2021) | Emailed Andrew Platkin and Nathan Reynolds. Response from Nathan. (Principal Engineer and VP Engineering) https://www.linkedin.com/in/andrewplatkin/ https://www.linkedin.com/in/nvreynolds/ |
+| Backstop Solutions Group | No Response | Emailed Brian Riehman and John Pettit (Development Manager and CTO) https://www.linkedin.com/in/brianriehman/ https://www.linkedin.com/in/johnpettit1/https://www.linkedin.com/in/johnpettit1/ |
+| JellyVision | No Response | Emailed Roosevelt Anderson and Badri Rajagopalan (Development Manager and Senior Vice President & Head Of Technology) https://www.linkedin.com/in/roosevelt-anderson-23960048/ https://www.linkedin.com/in/badriram/ |
+| Raise | No Response | Emailed Xiping Wang and John Parkin (Engineering Manager and Director of Product and Technology) https://www.linkedin.com/in/xiping-wang-19855446/ https://www.linkedin.com/in/john-parkin-64092b/ |
 
 | 20 Spokes | Program (February 2021) | Scheduling call with Ryan Fischer |
 
