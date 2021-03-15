@@ -6,7 +6,7 @@ GEM
     eventmachine (1.2.7)
     execjs (2.7.0)
     ffi (1.9.25)
-    json (2.1.0)
+    json (2.3.0)
     mustermann (1.0.3)
     rack (2.2.3)
     rack-protection (2.0.4)
