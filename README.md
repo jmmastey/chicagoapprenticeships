@@ -54,8 +54,12 @@ versus consulting companies), which are driven out of tags.
 | Backstop Solutions Group | No Response | Emailed Brian Riehman and John Pettit (Development Manager and CTO) https://www.linkedin.com/in/brianriehman/ https://www.linkedin.com/in/johnpettit1/https://www.linkedin.com/in/johnpettit1/ |
 | JellyVision | No Response | Emailed Roosevelt Anderson and Badri Rajagopalan (Development Manager and Senior Vice President & Head Of Technology) https://www.linkedin.com/in/roosevelt-anderson-23960048/ https://www.linkedin.com/in/badriram/ |
 | Raise | No Program (May 2021) - Plan to start on in 2022 | John Parkin (Director of Product and Technology) https://www.linkedin.com/in/xiping-wang-19855446/ https://www.linkedin.com/in/john-parkin-64092b/ |
-
 | 20 Spokes | Program (February 2021) - Active| Rescheduled call with Ryan Fischer and was not able to get details |
+| Pampered Chef | No Response | Brian Hogan (Software Engineering Manager) https://www.linkedin.com/in/brianhogancsm/ |
+| Grubhub | No Response | Johnny Lamb and Kiel Loysen (Director of Engineering, Internal Tools at Grubhub
+and Engineering Manager) https://www.linkedin.com/in/johnny-lamb-b3088713/ https://www.linkedin.com/in/kiel-loysen-96357135/ |
+| Scholastica | No Response | Cory Schires (Founder, Developer) https://www.linkedin.com/in/coryschires/ |
+| ThoughtWorks | No Response | Bill Kimmel (Head of Capabilities - North America) https://www.linkedin.com/in/bill-kimmel-832969/ |
 
 -----------------------------------
 
